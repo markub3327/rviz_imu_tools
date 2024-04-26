@@ -2,8 +2,8 @@
 Changelog for package imu_complementary_filter
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.1.4 (2024-04-26)
+------------------
 * Set read-only parameters as read_only (`#185 <https://github.com/CCNYRoboticsLab/imu_tools/issues/185>`_)
 * Contributors: Christoph Fröhlich
 
